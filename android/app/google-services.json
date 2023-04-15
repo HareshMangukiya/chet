@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "58522179189",
+    "project_id": "my-chat-eb6df",
+    "storage_bucket": "my-chat-eb6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58522179189:android:3a9f7e84b1987c68108a3c",
+        "android_client_info": {
+          "package_name": "com.example.chet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58522179189-0rf25p3h7dsaff9sdvtg7d6tlqo3300f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chet",
+            "certificate_hash": "f7b608fd144ce59a22b9acce06366eafc9810376"
+          }
+        },
+        {
+          "client_id": "58522179189-fjkg0hdpv0t67g9n52ng0nvr2vqpamhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkh2UxGLgUkDTXD_gkfjxUi7LDqOmp1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58522179189-fjkg0hdpv0t67g9n52ng0nvr2vqpamhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58522179189-srtsnoahg41c30pb93ineh6rnd9rv2gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
